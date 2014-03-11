@@ -1,0 +1,18 @@
+Compare 0and2
+Compare 0and3
+Compare 0and4
+Compare 0and5
+Compare 0and6
+Compare 0and7
+7 after 0
+Move 7 to 1
+
+2 not in family
+3 not in family
+4 not in family
+5 not in family
+6 not in family
+8 not in family
+9 not in family
+10 not in family
+11 not in family

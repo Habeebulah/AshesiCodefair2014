@@ -1,0 +1,48 @@
+Compare 0and2
+Compare 0and3
+Compare 0and4
+Compare 0and5
+Compare 0and6
+Compare 0and7
+7 after 0
+Move 7 to 1
+Compare 1and2
+Compare 1and3
+Compare 1and4
+4 after 1
+Move 4 to 2
+Compare 2and2
+Compare 2and3
+3 after 2
+Move 3 to 3
+Compare 3and2
+Compare 3and5
+Compare 3and6
+Compare 3and8
+Compare 3and9
+Compare 3and10
+10 after 3
+Move 10 to 4
+Compare 4and2
+Compare 4and5
+Compare 4and6
+Compare 4and8
+Compare 4and9
+Compare 4and11
+11 after 4
+Move 11 to 5
+Compare 5and2
+2 after 5
+Move 2 to 6
+Compare 6and5
+5 after 6
+Move 5 to 7
+Compare 7and6
+Compare 7and8
+8 after 7
+Move 8 to 8
+Compare 8and6
+Compare 8and9
+
+6 not in family
+9 not in family
